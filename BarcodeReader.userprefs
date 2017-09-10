@@ -1,16 +1,17 @@
-﻿<Properties StartupConfiguration="{D33C2C09-21AA-4DE7-A3B9-220E30FDA17A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BarcodeReader/Pages/MainPage.cs">
+﻿<Properties StartupConfiguration="{D33C2C09-21AA-4DE7-A3B9-220E30FDA17A}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
     <Files>
-      <File FileName="BarcodeReader/App.cs" Line="8" Column="6" />
-      <File FileName="BarcodeReader/Pages/MainPage.cs" Line="4" Column="57" />
+      <File FileName="BarcodeReader/App.cs" Line="9" Column="78" />
+      <File FileName="BarcodeReader/Pages/ScanBarcodePage.cs" Line="31" Column="22" />
+      <File FileName="Droid/MainActivity.cs" Line="10" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BarcodeReader.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0B459A8D-A8F4-41F4-AFE6-0A0B8C837543">
+  <MonoDevelop.Ide.ItemProperties.BarcodeReader.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.fc3e8c06fca1ab7ab4d9aa5a7d3d0a291512a60b">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.BarcodeReader.iOS>
   <MultiItemStartupConfigurations />

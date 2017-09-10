@@ -5,11 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="2.4.0.269-pre2" />
-    <PackageReference Include="ZXing.Net.Mobile.Forms" Version="2.2.9" />
+    <Folder Include="Pages\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Pages\" />
-    <Folder Include="ViewModels\" />
+    <PackageReference Include="ZXing.Net.Mobile.Forms" Version="2.2.9" />
+    <PackageReference Include="Xamarin.Forms" Version="2.4.0.269-pre2" />
   </ItemGroup>
 </Project>
