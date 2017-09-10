@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D33C2C09-21AA-4DE7-A3B9-220E30FDA17A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BarcodeReader/Pages/MainPage.cs">
+    <Files>
+      <File FileName="BarcodeReader/App.cs" Line="8" Column="6" />
+      <File FileName="BarcodeReader/Pages/MainPage.cs" Line="4" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BarcodeReader.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0B459A8D-A8F4-41F4-AFE6-0A0B8C837543">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BarcodeReader.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
